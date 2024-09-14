@@ -22,6 +22,10 @@ To create HTML two pages and linked with eachother
 
 
 
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
