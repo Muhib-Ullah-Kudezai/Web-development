@@ -1,6 +1,4 @@
-# Web-development
-To create HTML two pages and linked with eachother
-MUHIB ULLAH
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
